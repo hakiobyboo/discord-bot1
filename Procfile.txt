@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 web: gunicorn main:app
-
-=======
-web: gunicorn main:app
-
->>>>>>> 02c1146 (Initial commit)
