@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import discord
 from discord.ext import commands
@@ -180,4 +179,3 @@ async def recherche(ctx):
 
 # Démarrer le bot
 bot.run(token)
->>>>>>> 02c1146 (Initial commit)
