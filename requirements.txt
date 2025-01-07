@@ -2,6 +2,6 @@ requests
 Pillow
 python-dotenv==1.0.1
 discord.py==2.4.0
-torch==2.0.1+
+torch==2.0.1
 torchvision==0.15.2
 
